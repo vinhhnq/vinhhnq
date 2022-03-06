@@ -1,6 +1,6 @@
 ### Hi, I'm Nguyen Quang Vinh 👋
 
-**quagvinhh/quagvinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<-- **quagvinhh/quagvinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
