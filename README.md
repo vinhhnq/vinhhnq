@@ -1,9 +1,5 @@
 ### Hi, I'm Nguyen Quang Vinh 👋
 
-<-- **quagvinhh/quagvinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-
 - 🔭 Student: Information Technology at Thang Long University, Ha Noi
 - 🐼 Date of Birth: 12/04/2000 
 - 🌱 I’m currently learning: frontend developer, C++, Data structure and Algorithm
