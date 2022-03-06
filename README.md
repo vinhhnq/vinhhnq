@@ -2,7 +2,7 @@
 
 - 🔭 Student: Information Technology at Thang Long University, Ha Noi
 - 🐼 Date of Birth: 12/04/2000 
-- 🌱 I’m currently learning: frontend developer, C++, Data structure and Algorithm
+- 🌱 I’m currently learning: Frontend development, C++, Data structure and Algorithm, git...
 - 💬 Ask me any thing what I learned
 ## 📫 How to reach me:
   <p align="center">
