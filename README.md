@@ -25,4 +25,4 @@
 😄 Pronouns: juniokun
 
 
-⚡ Fun fact: read blog, love programing 💻, learn a lot of knowledge, play table tenis 🏓,...more
+⚡ Hobby: read blog, love programing 💻, learn a lot of knowledge, play table tenis 🏓,...more
