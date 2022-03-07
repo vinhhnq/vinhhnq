@@ -3,7 +3,7 @@
 - 🔭 Student: Information Technology at K32 Thang Long University, Ha Noi
 - 🐼 Date of Birth: 12/04/2000 
 - 🌱 I’m currently learning: Frontend development, C++, Python, Data structure and Algorithm, git...
-- 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com] [a36341@thanglong.edu.vn]
+- 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com]
 - 💬 Ask me any thing what I learned
 ## 📫 How to reach me:
   <p align="center">
