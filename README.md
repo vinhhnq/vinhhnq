@@ -1,6 +1,6 @@
 ### Hi, I'm Nguyen Quang Vinh 👋
 
-- 🔭 Student: Information Technology at K32 Thang Long University, Ha Noi
+- 🔭 Student: Information Technology Student - K32 Thang Long University, Ha Noi
 - 🐼 Date of Birth: 12/04/2000 
 - 🌱 I’m currently learning: Frontend development, Wordpress, C++, Python, Data structure and Algorithm, git...
 - 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com]
