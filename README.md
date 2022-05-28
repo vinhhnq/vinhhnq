@@ -23,7 +23,7 @@
       <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
     </a>
   </p>
-😄 Pronouns: juniokun
+😄 id name: vinhhnq
 
 
 ⚡ Hobby: read blog, love programing 💻, learn a lot of knowledge, play table tennis 🏓,...more
