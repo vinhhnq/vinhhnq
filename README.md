@@ -3,6 +3,7 @@
 - 🔭 Student: Information Technology Student - TT32 Thang Long University, Ha Noi
 - 🐼 Date of Birth: 12/04/2000 
 - 🌱 I’m currently learning: Frontend(HTML, CSS, Sass, bootstrap, tailwindcss,js,liquid...), C++, Python, Data structure and Algorithm, git...
+- Using another design app: figma, photoshop
 - 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com]
 - 💬 Ask me any thing what I learned
 ## 📫 How to reach me:
