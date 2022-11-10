@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning: Frontend(HTML, CSS, Sass, TailwindCSS, bootstrap, ,js,...), C++, Python, Data structure and Algorithm, git...
 - Using another design app: figma, photoshop
 - 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com]
-- 💬 Ask me any thing what I learned
 ## 📫 How to reach me:
   <p align="center">
     <a href="https://www.linkedin.com/in/vinhnguyen2000/" target="Linkedin">
@@ -25,6 +24,3 @@
     </a>
   </p>
 😄 id name: vinhhnq
-
-
-⚡ Hobby: read blog, love programing 💻, learn a lot of knowledge, play table tennis 🏓,...more
