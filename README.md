@@ -1,9 +1,8 @@
 ### Hi, I'm Nguyen Quang Vinh 👋
 
-- 🔭 Student: Information Technology Student - TT32 Thang Long University, Ha Noi
+- 🔭 Student: Information Technology Student - TT32 Thang Long University, Ha Noi (Viet Nam) 🇻🇳
 - 🐼 Date of Birth: 12/04/2000 
-- 🌱 I’m currently learning: Frontend(HTML, CSS, Sass, TailwindCSS, bootstrap, ,js,...), C++, Python, Data structure and Algorithm, git...
-- Using another design app: figma, photoshop
+- 👀 Skills: Frontend dev, algorithm C++, work with Shopify theme
 - 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com]
 ## 📫 How to reach me:
   <p align="center">
