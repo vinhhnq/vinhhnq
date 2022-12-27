@@ -2,7 +2,7 @@
 
 - 🔭 Student: Information Technology Student - TT32 Thang Long University, Ha Noi (Viet Nam) 🇻🇳
 - 🐼 Date of Birth: 12/04/2000 
-- 👀 Skills: Frontend developer, data structure & algorithm(C++), work with Shopify theme
+- 👀 Skills: Frontend developer, data structure & algorithm(C++, python), work with Shopify theme
 - 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com]
 ## 📫 How to reach me:
   <p align="center">
