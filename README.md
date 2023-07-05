@@ -4,6 +4,7 @@
 - 🐼 Date of Birth: 12/04/2000 
 - 👀 Skills: - Frontend Web, Data Structure & Algorithm<Basic>(C++, Python)
 - 📬 Email: [vinhng74@gmail.com] [ancoletylic2000@gmail.com] [a36341@thanglong.edu.vn]
+- 😄 id name: vinhhnq
 ## 📫 How to reach me:
   <p align="center">
     <a href="https://www.linkedin.com/in/vinhnguyen2000/" target="Linkedin">
@@ -22,4 +23,3 @@
       <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
     </a>
   </p>
-😄 id name: vinhhnq
