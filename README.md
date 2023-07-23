@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://partners.shopify.com/2680680](https://partners.shopify.com/2680680)
 
-- 💬 Ask me about **Liquid**
-
 - 📫 How to reach me **vinhng74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
