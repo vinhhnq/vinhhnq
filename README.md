@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhhnq&label=Profile%20views&color=0e75b6&style=flat" alt="vinhhnq" /> </p>
 
-- 🌱 I’m currently learning in **Shopify Theme**
+- 🔭 I’m a bachelor of **Infomation Technology - TT32 Thang Long University**
+
+- 🌱 I’m currently learning in **Frontend(Shopify Theme), Data Structure & Algorithm**
+
+- 👨‍💻 All of my projects are available at [https://partners.shopify.com/2680680](https://partners.shopify.com/2680680)
+
+- 💬 Ask me about **Liquid**
 
 - 📫 How to reach me **vinhng74@gmail.com**
 
