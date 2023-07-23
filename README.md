@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhhnq&label=Profile%20views&color=0e75b6&style=flat" alt="vinhhnq" /> </p>
 
-- 🌱 I’m currently learning **Liquid Shopify Theme**
+- 🌱 I’m currently learning in **Shopify Theme**
 
 - 📫 How to reach me **vinhng74@gmail.com**
 
