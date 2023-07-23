@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Quang Vinh A.K.A Andrew Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Quang Vinh</h1>
 <h3 align="center">A frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhhnq&label=Profile%20views&color=0e75b6&style=flat" alt="vinhhnq" /> </p>
