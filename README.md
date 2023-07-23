@@ -5,7 +5,7 @@
 
 - 🔭 I’m a bachelor of **Infomation Technology - TT32 Thang Long University**
 
-- 🌱 I’m currently learning in **Frontend(Shopify Theme), Data Structure & Algorithm, Design Pattern**
+- 🌱 I’m currently learning in **Frontend(Shopify Theme), Data Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://partners.shopify.com/2680680](https://partners.shopify.com/2680680)
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/andrewnguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrewnguyen" height="30" width="40" /></a>
 <a href="https://twitter.com/nqvinh2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nqvinh2000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinhnguyen2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinhnguyen2000" height="30" width="40" /></a>
 <a href="https://fb.com/vinhnguyen1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinhnguyen1204" height="30" width="40" /></a>
