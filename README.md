@@ -5,7 +5,7 @@
 
 - 🔭 I’m a bachelor of **Infomation Technology - TT32 Thang Long University**
 
-- 🌱 I’m currently learning in **Frontend(Shopify Theme), Data Structure & Algorithm**
+- 🌱 I’m currently learning in **Frontend(Shopify Theme), Data Structure & Algorithm, Design Pattern**
 
 - 👨‍💻 All of my projects are available at [https://partners.shopify.com/2680680](https://partners.shopify.com/2680680)
 
