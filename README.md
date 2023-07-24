@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning in **Frontend(Shopify Theme), Data Structure & Algorithm, Design Pattern**
 
-- 👨‍💻 All of my projects are available at [https://partners.shopify.com/2680680](https://partners.shopify.com/2680680)
+- 👨‍💻 All of my projects are available at [Myshopify](https://partners.shopify.com/2680680) and [Here](https://github.com/vinhhnq)
 
 - 📫 How to reach me **vinhng74@gmail.com**
 
