@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning in:
     ##### Frontend: Shopify Theme, Wordpress Theme, HTML/CSS, Javascript,Sass, TailwindCSS, ReactJS, JQuery, Woocommerce
-    ##### Backend: PHP
+    ##### Backend: PHP, MySQL
     ##### Data structure and algorithm
     ##### Programming Language: C++
 
