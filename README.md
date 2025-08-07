@@ -6,12 +6,12 @@
 - 🔭 I’m a bachelor degree of **Infomation Technology - TT32 Thang Long University**
 
 - 🌱 I’m currently learning in:
-    ##### Frontend: Shopify Theme, Wordpress Theme, HTML/CSS, Javascript,Sass, TailwindCSS, JQuery
+    ##### Frontend: Shopify Theme, Wordpress Theme, HTML/CSS, Javascript,Sass, TailwindCSS, JQuery, Woocommerce
     ##### Backend: PHP, MySQL
     ##### Data structure and algorithm
     ##### Programming Language: C++
 
-- 📫 How to reach me **vinhng74@gmail.com**
+- 📫 How to reach me **vinhng74@gmail.com** **ancoletylic2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
