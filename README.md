@@ -10,6 +10,7 @@
     ##### Backend: PHP, MySQL
     ##### Data structure and algorithm
     ##### Programming Language: C++
+    ##### Gitlab: https://gitlab.com/juniokun
 
 - 📫 How to reach me **vinhng74@gmail.com** **ancoletylic2000@gmail.com**
 
